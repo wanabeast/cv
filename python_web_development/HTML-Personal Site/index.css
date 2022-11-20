@@ -1,0 +1,31 @@
+.title {
+  font: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+.underline {
+  width: 95vw;
+  height: 0.25rem;
+  background-color: aquamarine;
+  margin: 2rem 0;
+}
+.info-text {
+  line-height: 1.5rem;
+  width: 90vw;
+  text-align: center;
+  letter-spacing: 0.12rem;
+}
+.link {
+  text-align: center;
+}
+.img-container {
+  width: 20rem;
+  height: 100px;
+  border-radius: 50%;
+}
+.img {
+  object-fit: cover;
+  width: 300px;
+  height: 300px;
+  /* padding: 0 1rem 0 0; */
+}
